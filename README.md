@@ -17,8 +17,10 @@ For example, these three cards form a set:
 The player wins when all the sets are found.
 
 ## Screenshots
-![game](./readme_img/game.png)
-![history](./readme_img/history.png)
+<figure class="half">
+  <img src="readme_img/game.png" alt="game">
+  <img src="readme_img/history.png" alt="history">
+</figure>
 
 ## Opening a sample in Android Studio
 
