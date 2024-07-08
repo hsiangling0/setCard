@@ -14,6 +14,7 @@ For example, these three cards form a set:
 * One red striped diamond
 * Two red solid diamonds
 * Three red open diamonds
+
 The player wins when all the sets are found.
 
 ## Screenshots
